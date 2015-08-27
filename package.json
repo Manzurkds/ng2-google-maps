@@ -1,0 +1,26 @@
+{
+  "name": "ng2-google-maps",
+  "version": "0.0.0",
+  "description": "Simple drag and drop with google-maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valor-software/ng2-google-maps.git"
+  },
+  "keywords": [
+    "angular2",
+    "ng2",
+    "google-maps",
+    "angular2-google-maps",
+    "ng2-google-maps"
+  ],
+  "author": "Dmitriy Shekhovtsov <valorkin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valor-software/ng2-google-maps/issues"
+  },
+  "homepage": "https://github.com/valor-software/ng2-google-maps#readme"
+}
